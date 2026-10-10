@@ -1,5 +1,11 @@
 # Security Policy
 
+> **🔱 Unofficial fork.** The direction of this fork is currently undecided.
+> For upstream policies, see the original repository at the time of forking:
+> [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) ([SECURITY.md](https://github.com/Graphify-Labs/graphify/blob/v8/SECURITY.md)).
+>
+> Security vulnerabilities should be reported upstream. Do not file public issues.
+
 ## Supported Versions
 
 | Version | Supported |

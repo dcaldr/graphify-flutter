@@ -2,6 +2,10 @@
   <a href="https://graphify.com"><img src="https://raw.githubusercontent.com/Graphify-Labs/graphify/v8/docs/graphify-logo.png" width="360" height="189" alt="Graphify"/></a>
 </p>
 
+> **🔱 Unofficial fork** of [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) with Dart/Flutter-specific tuning.
+> The direction of this fork is currently undecided. General bug fixes and features should be directed upstream.
+> Dart/Flutter-specific improvements live on the `dart-tuned` branch. See [scripts/ISSUE_TRACKER.md](scripts/ISSUE_TRACKER.md) for the backlog.
+
 <p align="center">
   <a href="https://trendshift.io/repositories/25296?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-25296" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/25296" alt="Graphify-Labs%2Fgraphify | Trendshift" width="250" height="55"/></a>
 </p>

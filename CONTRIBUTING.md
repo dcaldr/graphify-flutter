@@ -1,4 +1,10 @@
-# Contributing to Graphify
+# Contributing to graphify-flutter
+
+> **🔱 Unofficial fork.** The direction of this fork is currently undecided.
+> For upstream policies, see the original repository at the time of forking:
+> [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) ([CONTRIBUTING.md](https://github.com/Graphify-Labs/graphify/blob/v8/CONTRIBUTING.md)).
+>
+> General contributions should go upstream. Dart/Flutter-specific work may be accepted here — open an issue first.
 
 Graphify is a graph-building system whose correctness depends on preserving provenance, deterministic extraction, and safe incremental updates. A contribution is not complete because the new code works on the happy path; it is complete when the relevant invariant is explicit, tested, and preserved across rebuilds.
 
